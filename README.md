@@ -1,3 +1,4 @@
+
 # RAJ Official Portfolio
 
 A responsive React + Vite portfolio starter for **RAJ — MD JARAEJ ALAM**.
@@ -24,6 +25,7 @@ npm run dev
 npm run build
 npm run preview
 ```
+
 The production website is generated in the `dist` folder.
 
 ## Personalize before publishing
